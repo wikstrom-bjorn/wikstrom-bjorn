@@ -20,7 +20,7 @@ Human–AI Systems · Sociotechnical Change · Emerging Technology · Strategic 
   the working method behind every case in this portfolio.
 - **[The Age of No Resistance](https://doi.org/10.1177/00016993261463089)** — peer-reviewed theory
   (*Acta Sociologica*, 2026) of how friction reduction erodes institutional legitimacy; the
-  theoretical engine behind the applied cases.
+  theoretical engine behind the applied cases. [Read free (open access)](https://zenodo.org/records/21474085).
 - **[base76-research](https://github.com/wikstrom-bjorn/base76-research)** — full evidence base:
   publications, frameworks, OSF/DOI records.
 
