@@ -13,7 +13,7 @@ Human–AI Systems · Sociotechnical Change · Emerging Technology · Strategic 
 
 ## Selected work
 
-- **[Agentic Society 2030](https://github.com/wikstrom-bjorn/Strategic_Foresight_-_Innovation_Researcher/tree/main/cases/agentic-society-2030)**
+- **[Agentic Society 2030](https://github.com/wikstrom-bjorn/sociotechnical-futures/tree/main/cases/agentic-society-2030)**
   — how autonomous AI agents are reshaping consumption, institutions, and human agency. Full
   mechanism-based case: signals → drivers → mechanisms → scenarios → implications → opportunities.
 - **[mechanism-based-foresight](https://github.com/wikstrom-bjorn/mechanism-based-foresight)** —
@@ -26,7 +26,7 @@ Human–AI Systems · Sociotechnical Change · Emerging Technology · Strategic 
 
 ## Repositories
 
-- **[sociotechnical-futures](https://github.com/wikstrom-bjorn/Strategic_Foresight_-_Innovation_Researcher)** — main
+- **[sociotechnical-futures](https://github.com/wikstrom-bjorn/sociotechnical-futures)** — main
   portfolio: applied foresight cases on AI, society, institutions, and agency.
 - **[mechanism-based-foresight](https://github.com/wikstrom-bjorn/mechanism-based-foresight)** —
   the method: Signal → Driver → Mechanism → Scenario → Implication → Intervention.
