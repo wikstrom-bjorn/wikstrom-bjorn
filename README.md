@@ -1,14 +1,16 @@
 # Björn Wikström
-Strategic Foresight & Innovation Researcher
+Independent Sociologist & Contemporary Philosopher
 
-Sociology · Human–AI Systems · Sociotechnical Change · Strategic Design
+Strategic foresight for sociotechnical change, institutions, AI, and human agency.
 
-I study emerging sociotechnical change, identify the mechanisms driving it, and translate research
-into scenarios, strategic options, and new system concepts.
+I study how sociotechnical systems reshape institutions, legitimacy, judgment,
+and human agency. My work combines sociological research with mechanism-based
+strategic foresight: tracing observed signals to their structural drivers,
+causal mechanisms, plausible futures, and possible interventions.
 
-**SEE** — Signals · Research · Human behaviour · Societal change
-**UNDERSTAND** — Systems · Mechanisms · Sensemaking · Sociology
-**CREATE** — Scenarios · Strategic concepts · Innovation pathways
+**RESEARCH** — Sociology · Institutions · Sociotechnical change
+**FORESIGHT** — Signals · Drivers · Mechanisms · Scenarios
+**APPLICATION** — Implications · Strategic options · Interventions
 
 **Website:** [bjornwikstrom.com](https://www.bjornwikstrom.com)
 **ORCID:** [0009-0000-4015-2357](https://orcid.org/0009-0000-4015-2357)
@@ -24,7 +26,7 @@ into scenarios, strategic options, and new system concepts.
 - **[The Age of No Resistance](https://doi.org/10.1177/00016993261463089)** — peer-reviewed theory
   (*Acta Sociologica*, 2026) of how friction reduction erodes institutional legitimacy; the
   theoretical engine behind the applied cases. [Read free (open access)](https://zenodo.org/records/21474085).
-- **[base76-research](https://github.com/wikstrom-bjorn/base76-research)** — full evidence base:
+- **[Research record](https://github.com/wikstrom-bjorn/base76-research)** — full evidence base:
   publications, frameworks, OSF/DOI records.
 
 ## Repositories
@@ -33,5 +35,5 @@ into scenarios, strategic options, and new system concepts.
   portfolio: applied foresight cases on AI, society, institutions, and agency.
 - **[mechanism-based-foresight](https://github.com/wikstrom-bjorn/mechanism-based-foresight)** —
   the method: Signal → Driver → Mechanism → Scenario → Implication → Intervention.
-- **[base76-research](https://github.com/wikstrom-bjorn/base76-research)** — publications,
+- **[Research record](https://github.com/wikstrom-bjorn/base76-research)** — publications,
   frameworks, and links to OSF/Zenodo/DOI records.
