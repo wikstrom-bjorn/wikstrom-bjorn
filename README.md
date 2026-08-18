@@ -1,5 +1,5 @@
 # Björn Wikström
-Independent Sociologist & Contemporary Philosopher
+Independent Sociologist & future researcher 
 
 Strategic foresight for sociotechnical change, institutions, AI, and human agency.
 
